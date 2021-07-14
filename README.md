@@ -1,0 +1,1 @@
+A simple python project that keeps track of the price of a product by periodically checking the website and sends an notification email to its subscribers once the price falls below a particular range.
